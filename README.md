@@ -10,3 +10,5 @@ Student information management system based on Python -by lovingyuan
 库：os，Pystaller（用于打包）
 
 完整实现过程请前往B站观看：
+
+文件说明：stusystem.py程序实现。stusystem.txt用于存储学生信息。stusystem.exe为打包好的可执行文件。
